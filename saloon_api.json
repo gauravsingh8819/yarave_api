@@ -1,0 +1,69 @@
+{
+  "mostPopularSaloons": [
+    {
+      "id": 1,
+      "saloonName": "Yarave Branch 1",
+      "saloonImage" : "www.saloon-image.png",
+      "saloonRating" : "4",
+      "saloonAddress" : "vasai",
+      "saloonContactNumber" : "9876654567"
+      "saloonEmail" : "test@saloon.com"
+    },
+    {
+      "id": 2,
+      "saloonName": "Yarave Branch 2",
+      "saloonImage" : "www.saloon-image.png",
+      "saloonRating" : "4",
+      "saloonAddress" : "vasai",
+      "saloonContactNumber" : "9876654567"
+      "saloonEmail" : "test@saloon.com"
+    }
+  ],
+  "all_saloon_list": [
+    {
+      "id": 1,
+       "saloonName": "Yarave Branch 1",
+      "saloonImage" : "www.saloon-image.png",
+      "saloonRating" : "4",
+      "saloonAddress" : "vasai",
+      "saloonContactNumber" : "9876654567"
+      "saloonEmail" : "test@saloon.com"
+    },
+    {
+      "id": 2,
+      "saloonName": "Yarave Branch 2",
+      "saloonImage" : "www.saloon-image.png",
+      "saloonRating" : "4",
+      "saloonAddress" : "vasai",
+      "saloonContactNumber" : "9876654567"
+      "saloonEmail" : "test@saloon.com"
+    },
+    {
+      "id": 3,
+       "saloonName": "Yarave Branch 3",
+      "saloonImage" : "www.saloon-image.png",
+      "saloonRating" : "4",
+      "saloonAddress" : "vasai",
+      "saloonContactNumber" : "9876654567"
+      "saloonEmail" : "test@saloon.com"
+    },
+    {
+      "id": 4,
+       "saloonName": "Yarave Branch 4",
+      "saloonImage" : "www.saloon-image.png",
+      "saloonRating" : "4",
+      "saloonAddress" : "vasai",
+      "saloonContactNumber" : "9876654567"
+      "saloonEmail" : "test@saloon.com"
+    },
+    {
+      "id": 5,
+       "saloonName": "Yarave Branch 5",
+      "saloonImage" : "www.saloon-image.png",
+      "saloonRating" : "4",
+      "saloonAddress" : "vasai",
+      "saloonContactNumber" : "9876654567"
+      "saloonEmail" : "test@saloon.com"
+    }
+  ]
+}
