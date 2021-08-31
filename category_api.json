@@ -3,11 +3,13 @@
     {
       "id": 1,
       "categoryName": "Hair",
+      "categoryImage" : "www.category-image.png",
       "noOfAvailableSaloons" : 2
     },
     {
       "id": 2,
       "categoryName": "Nails",
+      "categoryImage" : "www.category-image.png",
       "noOfAvailableSaloons" : 2
     }
   ],
@@ -15,26 +17,31 @@
     {
       "id": 1,
       "categoryName": "Hair",
+      "categoryImage" : "www.category-image.png",
       "noOfAvailableSaloons" : 2
     },
     {
       "id": 1,
       "categoryName": "Nails",
+      "categoryImage" : "www.category-image.png",
       "noOfAvailableSaloons" : 2
     },
     {
       "id": 1,
       "categoryName": "Makeup",
+      "categoryImage" : "www.category-image.png",
       "noOfAvailableSaloons" : 2
     },
     {
       "id": 1,
       "categoryName": "Waxing",
+      "categoryImage" : "www.category-image.png",
       "noOfAvailableSaloons" : 2
     },
     {
       "id": 1,
       "categoryName": "Tatoo",
+      "categoryImage" : "www.category-image.png",
       "noOfAvailableSaloons" : 2
     }
   ]
