@@ -21,25 +21,25 @@
       "noOfAvailableSaloons" : 2
     },
     {
-      "id": 1,
+      "id": 2,
       "categoryName": "Nails",
       "categoryImage" : "www.category-image.png",
       "noOfAvailableSaloons" : 2
     },
     {
-      "id": 1,
+      "id": 3,
       "categoryName": "Makeup",
       "categoryImage" : "www.category-image.png",
       "noOfAvailableSaloons" : 2
     },
     {
-      "id": 1,
+      "id": 4,
       "categoryName": "Waxing",
       "categoryImage" : "www.category-image.png",
       "noOfAvailableSaloons" : 2
     },
     {
-      "id": 1,
+      "id": 5,
       "categoryName": "Tatoo",
       "categoryImage" : "www.category-image.png",
       "noOfAvailableSaloons" : 2
