@@ -2,33 +2,40 @@
   "mostPopularCategories": [
     {
       "id": 1,
-      "categoryName": "Hair"
+      "categoryName": "Hair",
+      "noOfAvailableSaloons" : 2
     },
     {
       "id": 2,
-      "categoryName": "Nails"
+      "categoryName": "Nails",
+      "noOfAvailableSaloons" : 2
     }
   ],
   "all_category_list": [
     {
       "id": 1,
-      "categoryName": "Hair"
+      "categoryName": "Hair",
+      "noOfAvailableSaloons" : 2
     },
     {
       "id": 1,
-      "categoryName": "Nails"
+      "categoryName": "Nails",
+      "noOfAvailableSaloons" : 2
     },
     {
       "id": 1,
-      "categoryName": "Makeup"
+      "categoryName": "Makeup",
+      "noOfAvailableSaloons" : 2
     },
     {
       "id": 1,
-      "categoryName": "Waxing"
+      "categoryName": "Waxing",
+      "noOfAvailableSaloons" : 2
     },
     {
       "id": 1,
-      "categoryName": "Tatoo"
+      "categoryName": "Tatoo",
+      "noOfAvailableSaloons" : 2
     }
   ]
 }
