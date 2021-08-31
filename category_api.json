@@ -1,0 +1,34 @@
+{
+  "mostPopularCategories": [
+    {
+      "id": 1,
+      "categoryName": "Hair"
+    },
+    {
+      "id": 2,
+      "categoryName": "Nails"
+    }
+  ],
+  "all_category_list": [
+    {
+      "id": 1,
+      "categoryName": "Hair"
+    },
+    {
+      "id": 1,
+      "categoryName": "Nails"
+    },
+    {
+      "id": 1,
+      "categoryName": "Makeup"
+    },
+    {
+      "id": 1,
+      "categoryName": "Waxing"
+    },
+    {
+      "id": 1,
+      "categoryName": "Tatoo"
+    }
+  ]
+}
